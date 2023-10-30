@@ -1,0 +1,5 @@
+- id: pre-commit-autoupdate
+  name: pre-commit autoupdate
+  entry: pre-commit-autoupdate
+  language: python
+  pass_filenames: false
